@@ -1,2 +1,2 @@
 # flawless-programmer.github.io
-The website for Android App of my class timetable of 3rd Sem
+This is the place from where it all have started and there is gonna be a beautiful about me at this place soon.
